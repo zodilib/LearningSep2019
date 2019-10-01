@@ -1,3 +1,3 @@
  and then this is an added content . 
-so now a conflict should happen
+this is another way to know if the conflict happens
 this is Abhishek again in test2
